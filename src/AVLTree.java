@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by Cale Gibson (͡° ͜ʖ͡°)
+ * Created by Cale Gibson
  * on 02/03/15.
  */
 public class AVLTree<K, V> implements AVLTreeInterface {
